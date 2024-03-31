@@ -1,4 +1,4 @@
-                                                                            NAME:Hemapriya.K
+                                                          NAME:Hemapriya.K
                                                                             Reg.NO:212223040066
 # Ex:1 Mean and variance of a discrete  distribution
 
